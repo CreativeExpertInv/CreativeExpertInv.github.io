@@ -18,7 +18,7 @@ nav .nav-logo {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     gap: 10px;
 }
 
@@ -42,7 +42,7 @@ nav .nav-logo img{
 
 nav .navigation {
     width: 30%;
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,7 +94,7 @@ header img {
 }
 
 header h1 {
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     font-size: 3rem;
 }
 
@@ -195,7 +195,7 @@ section.sec-two .quotes p {
     width: 300px;
     height: 300px;
     text-align: center;
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -293,7 +293,7 @@ main .card {
     padding: 10px;
     border: 2px solid black;
     background-image: url('../../assets/biru-3.jpg');
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     color: white;
 }
 
@@ -507,7 +507,7 @@ footer .promo {
     
     nav .navigation {
         width: 40%;
-        font-family: cursive;
+        font-family: 'Comic Neue', cursive;
         font-size: 13px;
         display: flex;
         justify-content: center;
